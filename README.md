@@ -1,5 +1,8 @@
 ## Hi, I’m Krishnabal 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=krishnabalp&color=blue)
+
+
 ### Data Analyst | SQL | Power BI | Advanced Excel
 
 ---
