@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnabalp)
 
 ### 📊 Data Analyst | Turning Data into Actionable Insights
-I specialize in bridging the gap between raw data and business decisions. Whether it's optimizing SQL queries or building high-impact Power BI dashboards, I focus on clarity, efficiency, and ROI.
+I transform complex datasets into clear, actionable stories. My focus is on building efficient data pipelines and visual tools that help businesses stop guessing and start growing.
 
 ---
 
@@ -26,7 +26,7 @@ I specialize in bridging the gap between raw data and business decisions. Whethe
 
 - **Advanced Excel** – formulas, macros, reporting automation  
 
-- **Python (Basic)** – data analysis and preprocessing  
+- **Python** – data analysis and preprocessing  
 
 - **Data Analysis** – KPI reporting, trend analysis, root cause analysis  
 
