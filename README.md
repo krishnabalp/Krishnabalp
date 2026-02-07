@@ -1,7 +1,7 @@
-# Hi, I’m Krishnabal 👋 
+# Hi there, I’m Krishnabal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Profile views](https://komarev.com/ghpvc/?username=krishnabalp&color=0078d4&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnabalp)
 
 ### 📊 Data Analyst | Turning Data into Actionable Insights
 I specialize in bridging the gap between raw data and business decisions. Whether it's optimizing SQL queries or building high-impact Power BI dashboards, I focus on clarity, efficiency, and ROI.
@@ -34,17 +34,9 @@ I specialize in bridging the gap between raw data and business decisions. Whethe
 
 ---
 
-## 📈 My GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnabalp&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnabalp&layout=compact&theme=visual_studio_code" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 - 📧 **Email:** [krishnabal47@gmail.com](mailto:krishnabal47@gmail.com)
-- 💼 **LinkedIn:** [Your Name](YOUR_LINKEDIN_URL_HERE)
-- ✍️ **Portfolio:** [Optional: Link to a website if you have one]
+- 💼 **LinkedIn:** [Krishnabal](https://www.linkedin.com/in/krishnabalp)
+  
 
 *"Data is what you need to do analytics. Information is what you need to do business."*
