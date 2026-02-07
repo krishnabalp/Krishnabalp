@@ -18,6 +18,24 @@ I specialize in bridging the gap between raw data and business decisions. Whethe
 
 ---
 
+ ## 🛠️ Skills
+
+- **SQL** – querying, aggregations, performance analysis  
+
+- **Power BI** – interactive dashboards, KPI tracking  
+
+- **Advanced Excel** – formulas, macros, reporting automation  
+
+- **Python (Basic)** – data analysis and preprocessing  
+
+- **Data Analysis** – KPI reporting, trend analysis, root cause analysis  
+
+- **Data Visualization** – business-focused dashboards  
+
+- **Data Cleaning & Preprocessing** 
+
+---
+
 ## 📊 Featured Projects
 
 ### 🛍️ [E-commerce Sales & Pricing Analysis](https://github.com/krishnabalp/Ecommerce-Sales-Analysis)
@@ -26,7 +44,7 @@ I specialize in bridging the gap between raw data and business decisions. Whethe
 * **Tech:** Python (Pandas/Seaborn), Power BI.
 * **Key Insight:** Optimized pricing tiers resulted in a projected 12% increase in margin for top-performing SKUs.
 
-### 📈 [Work Utilization & Productivity Suite](https://github.com/krishnabalp)
+### 📈 [Work Utilization & Productivity Suite]
 *Automating the "boring stuff" to focus on high-level strategy.*
 * **The Goal:** Reduce manual reporting time for operational KPIs.
 * **Tech:** Advanced Excel, VBA Macros.
