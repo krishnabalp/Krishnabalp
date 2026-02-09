@@ -10,24 +10,13 @@ I transform complex datasets into clear, actionable stories. My focus is on buil
 
 ## 🛠️ My Tech Stack
 
-|| Category | Tools & Technologies |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Analysis** | 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-|
-| **Visualization** |
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black)
-![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=flat&logo=amazonaws&logoColor=white)
-|
-| **Cloud & Tools** |
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-|
+| **Data Analysis** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black) ![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=flat&logo=amazonaws&logoColor=white) |
+| **Cloud & Tools** | ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazonaws&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 | **Soft Skills** | KPI Reporting • WBR / MBR • Trend Analysis • Root Cause Analysis • Process Automation |
+
 
 ---
 
